@@ -1,1 +1,1 @@
-You can go through tutorial https://www.roytuts.com/embedded-hsql-database-with-spring/
+Please follow the tutorial https://roytuts.com/embedded-hsql-database-with-spring/
